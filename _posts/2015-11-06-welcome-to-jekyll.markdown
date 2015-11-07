@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome My GH page  "
 date:   2015-11-06 16:18:43
-categories: jekyll update
+categories: post init blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+This is the first post on this website that I have recently decided to create with GH pages.  
+I have been updating with daily engineering findings on github gists and my keep.google account but I felt like there should be a central place to keep all my stuff so is here my GH page ;) 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Enjoy .
 
-Jekyll also offers powerful support for code snippets:
+Check out  [My Github gists][gists] for more info on the gists i have created.  
+My [Linkedin Profile][linkedin] .
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[gists]:      https://gist.github.com/hayderimran7
+[linkedin]:   https://www.linkedin.com/pub/imran-hayder/92/282/5b1
