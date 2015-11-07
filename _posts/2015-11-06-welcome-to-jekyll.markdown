@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome My GH page  "
+title:  "First post - Welcome to my GH page :)  "
 date:   2015-11-06 16:18:43
 categories: post init blog
 ---
