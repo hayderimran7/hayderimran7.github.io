@@ -3,9 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+# ABOUT ME: 
+My name is Imran Hayder and I'm a software engineer based in San Francisco. 
+Currently working for EMC Corp. in the Cloud Compute Team of SF where we are mostly working with developing distributed system for opentack servers 
+and shared storage using ScaleIO.  
+My main areas of focus are distributed systems, running Jenkins CI environment with dynamic slave provisioning, develop gating checks on 
+code submissions and integration with Stash/gerrit/github.
+I have also performed extensive QA testing at both API level using unit/smoke/integration testing and Selenium based testing for WebUI written
+in python.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+You can find my source code for the most projects I worked at : [github.com/hayderimran7/](https://github.com/hayderimran7)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Here is my stackalytics, a website developed by Opentack Team to show individual users contribution : [My stackalytics profile](http://stackalytics.com/?user_id=hayderimran7&metric=marks&release=all)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
