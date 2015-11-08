@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First post - Welcome to my GH page ...  "
+title:  "First post - Welcome to my GH pages "
 date:   2015-11-06 16:18:43
 categories: post init blog
 ---
@@ -11,6 +11,8 @@ Enjoy .
 
 Check out  [My Github gists][gists] for more info on the gists i have created.  
 My [Linkedin Profile][linkedin] .
+My [Launchpad Profile][launchpad] .
 
 [gists]:      https://gist.github.com/hayderimran7
 [linkedin]:   https://www.linkedin.com/pub/imran-hayder/92/282/5b1
+[launchpad]: https://launchpad.net/~hayderimran7
